@@ -123,7 +123,7 @@ body {
 }
 
 .conversation #messages {
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -297,7 +297,7 @@ body {
 .message .content,
 .message .content a:link,
 .message .content a:visited{
-    font-size: 15px;
+    font-size: 17px;
     line-height: 1.3;
     color: var(--colour-3);
 }
